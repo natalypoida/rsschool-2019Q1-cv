@@ -1,6 +1,6 @@
 ## Natalya Poida ##
 
-![image](https://drive.google.com/open?id=14WWc9jP5K5M1yA83spTiV9jXAOdGXDPS)
+![image](https://avatars1.githubusercontent.com/u/47753832?s=400&u=f56f237705c128ac04ba7975cfb683df1efab6e8&v=4)
 
 *mobile +77015015304*  
 *email: nataly.poida@gmail.com*
