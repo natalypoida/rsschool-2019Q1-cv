@@ -1,5 +1,7 @@
 ## Natalya Poida ##
 
+![image](https://drive.google.com/open?id=14WWc9jP5K5M1yA83spTiV9jXAOdGXDPS)
+
 *mobile +77015015304*  
 *email: nataly.poida@gmail.com*
 
@@ -28,9 +30,9 @@ Novice frontend-developer. Confident knowledge of HTML, CSS, JavaScript.
  [ https://htmlacademy.ru](https://htmlacademy.ru/)
  
  ### Other Skills and additional education ###
- English Level B1+ 
- Lewis School of English, Southampton, England (2006)
- Lewis School of English, Higher Intermediate level
+ English Level B1+   
+ Lewis School of English, Southampton, England (2006)  
+ Lewis School of English, Higher Intermediate level  
 
 ### Personal Skills: ###
 Keen, open to communication, honest, hard-working, good team working skills,   
