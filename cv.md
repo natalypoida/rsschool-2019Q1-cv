@@ -25,12 +25,12 @@ Novice frontend-developer. Confident knowledge of HTML, CSS, JavaScript.
 - Codacademy (February 2019 - now)  
  [https://www.codecademy.com/](https://www.codecademy.com/)
  - HTML Acacdemy (May, 2018- now)
- [ https://htmlacademy.ru] (https://htmlacademy.ru/)
+ [ https://htmlacademy.ru](https://htmlacademy.ru/)
  
  ### Other Skills and additional education ###
- English Level B2+ 
-Lewis School of English, Southampton, England (2006)
-Lewis School of English, Higher Intermediate level
+ English Level B1+ 
+ Lewis School of English, Southampton, England (2006)
+ Lewis School of English, Higher Intermediate level
 
 ### Personal Skills: ###
 Keen, open to communication, honest, hard-working, good team working skills,   
