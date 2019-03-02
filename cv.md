@@ -1,6 +1,6 @@
 ## Natalya Poida ##
 
-*mobile +77015015304*
+*mobile +77015015304*  
 *email: nataly.poida@gmail.com*
 
 ### Summary: ### 
@@ -15,8 +15,8 @@ Nevertheless, I am an optimistic person too. So, I am here.
 ### Skills: ### 
 Novice frontend-developer. Confident knowledge of HTML, CSS, JavaScript.
 
-### My coding### 
-[https://github.com/natalypoida/example-of-code] (https://github.com/natalypoida/example-of-code)
+### My coding ### 
+[https://github.com/natalypoida/example-of-code](https://github.com/natalypoida/example-of-code)
 
 ### Education ###
 - Karaganda State University, Primary School Education, Primary School Teacher (1998-2002)
