@@ -1,1 +1,1 @@
-https://natalypoida.github.io/rsschool-2019Q1-cv/cv
+https://natalypoida.github.io/rsschool-cv/
